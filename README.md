@@ -32,10 +32,10 @@ Run the script:
 ```
 Follow the on-screen menu instructions to:
 <br>
-Select a log file.<br>
-View log file information.<br>
-View log entries in real-time.<br>
-Search for specific content within log files.<br>
+- Select a log file.<br>
+- View log file information.<br>
+- View log entries in real-time.<br>
+- Search for specific content within log files.<br>
 
 ## Common Log Files
 The script includes a predefined list of common log file locations. You can customize this list by editing the log_files array in the script to suit your system's log file locations.
