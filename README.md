@@ -40,7 +40,7 @@ Follow the on-screen menu instructions to:
 ## Common Log Files
 The script includes a predefined list of common log file locations. You can customize this list by editing the log_files array in the script to suit your system's log file locations.
 
-
+## License
 This project is licensed under the [MIT License](LICENSE).
 <p align="center">
   Made with ❤️ by InfoXMax
