@@ -31,14 +31,17 @@ Run the script:
    ./log_viewer.sh
 ```
 Follow the on-screen menu instructions to:
+<br>
+Select a log file.<br>
+View log file information.<br>
+View log entries in real-time.<br>
+Search for specific content within log files.<br>
 
-Select a log file.
-View log file information.
-View log entries in real-time.
-Search for specific content within log files.
-Common Log Files
+##Common Log Files
 The script includes a predefined list of common log file locations. You can customize this list by editing the log_files array in the script to suit your system's log file locations.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
+This project is licensed under the [MIT License](LICENSE).
+<p align="center">
+  Made with ❤️ by InfoXMax
+</p>
