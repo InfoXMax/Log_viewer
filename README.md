@@ -40,6 +40,14 @@ Follow the on-screen menu instructions to:
 ## Common Log Files
 The script includes a predefined list of common log file locations. You can customize this list by editing the log_files array in the script to suit your system's log file locations.
 
+## Screenshots
+
+![Screenshot 1](https://i.imgur.com/GZci58A.png)
+![Screenshot 2](https://i.imgur.com/Avy2zWZ.png)
+![Screenshot 3](https://i.imgur.com/Do40bIT.png)
+![Screenshot 4](https://i.imgur.com/VbdpOnF.png)
+![Screenshot 5](https://i.imgur.com/GKTyjKt.png)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 <p align="center">
